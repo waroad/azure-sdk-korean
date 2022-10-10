@@ -1,0 +1,552 @@
+#
+msgid ""
+msgstr ""
+
+#: README.md:block 1 (header)
+msgid "Azure SDK Documentation for Korean"
+msgstr ""
+
+#: README.md:block 2 (paragraph)
+msgid ""
+"(For English, please visit https://github.com/Azure/azure-sdk repository)"
+msgstr ""
+"(영어는 https://github.com/Azure/azure-sdk 저장소를 방문해주세요.)"
+
+#: README.md:block 3 (paragraph)
+msgid ""
+"Azure SDK는 개발자가 다양한 Azure 서비스를 원하는 프로그래밍 언어로 활용할 수 있는 플랫폼을 제공하고 있습니다. 각 언어에 "
+"대한 소스 저장소에 해당 클라이언트 라이브러리에 대한 소스 코드가 있습니다. 이 저장소는 해당 프로그래밍 언어 별 저장소를 가리키며, "
+"한글로 보다 자세한 설명을 공유하고자 합니다. 구체적인 이슈는 각 SDK 저장소를 통해 확인하실 수 있습니다."
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "언어"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "디자인 가이드라인 (영문)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "패키지"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "저장소"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "문서 (영문)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "General"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[General Design Guidelines]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Official Azure Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "Android"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for Android] (Draft)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Android Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-android Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "Coming Soon"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "C# /.NET"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for .NET]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[.NET Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-net Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[.NET Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "Go"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for Go] (Draft)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Go Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-go Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Go Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "C"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for C99] (Draft)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[C Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-c Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[C Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "C++"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for C++] (Draft)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[C++ Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-cpp Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[C++ Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "iOS"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for iOS] (Draft)"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[iOS Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-ios Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "Java"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for Java]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Java Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-java Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Java Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "JavaScript"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for TypeScript]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[JavaScript Packages][Javascript Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-js Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[JavaScript Documentation]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "Python"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Design Guidelines for Python]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Python Packages]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[azure-sdk-for-python Repository]"
+msgstr ""
+
+#: README.md:block 4 (table)
+msgid "[Python Documentation]"
+msgstr ""
+
+#: README.md:block 5 (header)
+msgid "기여하기 (Contributing)"
+msgstr ""
+
+#: README.md:block 6 (paragraph)
+msgid "본 저장소는 Microsoft 오픈 소스에 기여하기 위한 가이드라인을 따르고 있습니다."
+msgstr ""
+
+#: README.md:block 7 (paragraph)
+msgid ""
+"This project welcomes contributions and suggestions. Most contributions "
+"require you to agree to a Contributor License Agreement (CLA) declaring that"
+" you have the right to, and actually do, grant us the rights to use your "
+"contribution. For details, visit https://cla.microsoft.com."
+msgstr ""
+
+#: README.md:block 8 (paragraph)
+msgid ""
+"When you submit a pull request, a CLA-bot will automatically determine "
+"whether you need to provide a CLA and decorate the PR appropriately (e.g., "
+"label, comment). Simply follow the instructions provided by the bot. You "
+"will only need to do this once across all repos using our CLA."
+msgstr ""
+
+#: README.md:block 9 (paragraph)
+msgid ""
+"Please see our [contributing guide](CONTRIBUTING.md) for complete "
+"instructions on how you can contribute to the Azure SDK. For instructions on"
+" how to contribute to each individual SDK, please check the CONTRIBUTING.md "
+"in each language repo."
+msgstr ""
+
+#: README.md:block 10 (paragraph)
+msgid ""
+"This project has adopted the [Microsoft Open Source Code of "
+"Conduct](https://opensource.microsoft.com/codeofconduct/). For more "
+"information see the [Code of Conduct "
+"FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact "
+"[opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional "
+"questions or comments."
+msgstr ""
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[General Design Guidelines]: https://azure.github.io/azure-"
+"sdk/general_introduction.html"
+msgstr ""
+"[General Design Guidelines]: https://azure.github.io/azure-"
+"sdk/general_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for Android]: https://azure.github.io/azure-"
+"sdk/android_design.html"
+msgstr ""
+"[Design Guidelines for Android]: https://azure.github.io/azure-"
+"sdk/android_design.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for .NET]: https://azure.github.io/azure-"
+"sdk/dotnet_introduction.html"
+msgstr ""
+"[Design Guidelines for .NET]: https://azure.github.io/azure-"
+"sdk/dotnet_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for Go]: https://azure.github.io/azure-"
+"sdk/golang_introduction.html"
+msgstr ""
+"[Design Guidelines for Go]: https://azure.github.io/azure-"
+"sdk/golang_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for C99]: https://azure.github.io/azure-"
+"sdk/clang_design.html"
+msgstr ""
+"[Design Guidelines for C99]: https://azure.github.io/azure-"
+"sdk/clang_design.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for C++]: https://azure.github.io/azure-"
+"sdk/cpp_introduction.html"
+msgstr ""
+"[Design Guidelines for C++]: https://azure.github.io/azure-"
+"sdk/cpp_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for iOS]: https://azure.github.io/azure-"
+"sdk/ios_introduction.html"
+msgstr ""
+"[Design Guidelines for iOS]: https://azure.github.io/azure-"
+"sdk/ios_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for Java]: https://azure.github.io/azure-"
+"sdk/java_introduction.html"
+msgstr ""
+"[Design Guidelines for Java]: https://azure.github.io/azure-"
+"sdk/java_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for TypeScript]: https://azure.github.io/azure-"
+"sdk/typescript_introduction.html"
+msgstr ""
+"[Design Guidelines for TypeScript]: https://azure.github.io/azure-"
+"sdk/typescript_introduction.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Design Guidelines for Python]: https://azure.github.io/azure-"
+"sdk/python_design.html"
+msgstr ""
+"[Design Guidelines for Python]: https://azure.github.io/azure-"
+"sdk/python_design.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[revproc]: https://azure.github.io/azure-sdk/policies_reviewprocess.html"
+msgstr ""
+"[revproc]: https://azure.github.io/azure-sdk/policies_reviewprocess.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[azure-sdk Repository]: https://github.com/Azure/azure-sdk"
+msgstr "[azure-sdk Repository]: https://github.com/Azure/azure-sdk"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-android Repository]: https://github.com/Azure/azure-sdk-for-"
+"android"
+msgstr ""
+"[azure-sdk-for-android Repository]: https://github.com/Azure/azure-sdk-for-"
+"android"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-net Repository]: https://github.com/Azure/azure-sdk-for-net"
+msgstr ""
+"[azure-sdk-for-net Repository]: https://github.com/Azure/azure-sdk-for-net"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-go Repository]: https://github.com/Azure/azure-sdk-for-go"
+msgstr ""
+"[azure-sdk-for-go Repository]: https://github.com/Azure/azure-sdk-for-go"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[azure-sdk-for-c Repository]: https://github.com/Azure/azure-sdk-for-c"
+msgstr ""
+"[azure-sdk-for-c Repository]: https://github.com/Azure/azure-sdk-for-c"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-cpp Repository]: https://github.com/Azure/azure-sdk-for-cpp"
+msgstr ""
+"[azure-sdk-for-cpp Repository]: https://github.com/Azure/azure-sdk-for-cpp"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-ios Repository]: https://github.com/Azure/azure-sdk-for-ios"
+msgstr ""
+"[azure-sdk-for-ios Repository]: https://github.com/Azure/azure-sdk-for-ios"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-java Repository]: https://github.com/Azure/azure-sdk-for-java"
+msgstr ""
+"[azure-sdk-for-java Repository]: https://github.com/Azure/azure-sdk-for-java"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-js Repository]: https://github.com/Azure/azure-sdk-for-js"
+msgstr ""
+"[azure-sdk-for-js Repository]: https://github.com/Azure/azure-sdk-for-js"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[azure-sdk-for-python Repository]: https://github.com/Azure/azure-sdk-for-"
+"python"
+msgstr ""
+"[azure-sdk-for-python Repository]: https://github.com/Azure/azure-sdk-for-"
+"python"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[Official Azure Documentation]: http://aka.ms/azure-sdk-docs"
+msgstr "[Official Azure Documentation]: http://aka.ms/azure-sdk-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[.NET Documentation]: http://aka.ms/net-docs"
+msgstr "[.NET Documentation]: http://aka.ms/net-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[Go Documentation]: http://aka.ms/go-docs"
+msgstr "[Go Documentation]: http://aka.ms/go-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[Java Documentation]: http://aka.ms/java-docs"
+msgstr "[Java Documentation]: http://aka.ms/java-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[JavaScript Documentation]: http://aka.ms/js-docs"
+msgstr "[JavaScript Documentation]: http://aka.ms/js-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[Python Documentation]: https://aka.ms/python-docs"
+msgstr "[Python Documentation]: https://aka.ms/python-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[C Documentation]: https://aka.ms/c-docs"
+msgstr "[C Documentation]: https://aka.ms/c-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[C++ Documentation]: https://aka.ms/cpp-docs"
+msgstr "[C++ Documentation]: https://aka.ms/cpp-docs"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[.NET Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/dotnet.html"
+msgstr ""
+"[.NET Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/dotnet.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Java Packages]: https://azure.github.io/azure-sdk/releases/latest/java.html"
+msgstr ""
+"[Java Packages]: https://azure.github.io/azure-sdk/releases/latest/java.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Javascript Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/js.html"
+msgstr ""
+"[Javascript Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/js.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Python Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/python.html"
+msgstr ""
+"[Python Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/python.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid "[C Packages]: https://azure.github.io/azure-sdk/releases/latest/c.html"
+msgstr ""
+"[C Packages]: https://azure.github.io/azure-sdk/releases/latest/c.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[C++ Packages]: https://azure.github.io/azure-sdk/releases/latest/cpp.html"
+msgstr ""
+"[C++ Packages]: https://azure.github.io/azure-sdk/releases/latest/cpp.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Android Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/android.html"
+msgstr ""
+"[Android Packages]: https://azure.github.io/azure-"
+"sdk/releases/latest/android.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[iOS Packages]: https://azure.github.io/azure-sdk/releases/latest/ios.html"
+msgstr ""
+"[iOS Packages]: https://azure.github.io/azure-sdk/releases/latest/ios.html"
+
+#: README.md:block 10 (paragraph)
+#, fuzzy
+msgid ""
+"[Go Packages]: https://azure.github.io/azure-sdk/releases/latest/go.html"
+msgstr ""
+"[Go Packages]: https://azure.github.io/azure-sdk/releases/latest/go.html"
