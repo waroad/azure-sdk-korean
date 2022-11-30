@@ -33,6 +33,7 @@ plugins:
   - jekyll-relative-links
   - jemoji
 
+
 # Files and directories that Jekyll will exclude from the build
 exclude:
   - .idea/
@@ -100,3 +101,6 @@ sidebars:
   - general_sidebar
 
 github: [metadata]
+
+languages: ["en", "po"]
+translations_folder: "docs"
