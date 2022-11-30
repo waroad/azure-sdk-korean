@@ -102,6 +102,6 @@ sidebars:
 
 github: [metadata]
 
-languages: ["en", "po"]
-translations_folder: "docs"
+languages: ["en", "ko"]
+translations_folder: "docs/po"
 text_domain: "approved_dependencies"
