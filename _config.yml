@@ -104,3 +104,4 @@ github: [metadata]
 
 languages: ["en", "po"]
 translations_folder: "docs"
+text_domain: "approved_dependencies"
